@@ -1,0 +1,46 @@
+/* Write your CSS here */
+.cart-summary-container {
+  align-self: flex-end;
+  width: 280px;
+  border: 1px solid #d7dfe9;
+  border-radius: 8px;
+  padding: 20px;
+  margin-top: 20px;
+  background-color: #f9fbfe;
+}
+
+.order-total-text {
+  color: #171f46;
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+
+.total-amount {
+  color: #0b69ff;
+  font-size: 22px;
+  font-weight: 600;
+}
+
+.total-items-text {
+  color: #616e7c;
+  font-size: 14px;
+  margin-top: 10px;
+  margin-bottom: 16px;
+}
+
+.checkout-button {
+  width: 100%;
+  background-color: #0b69ff;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  padding: 10px;
+  font-size: 15px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.checkout-button:hover {
+  background-color: #0353c4;
+}
