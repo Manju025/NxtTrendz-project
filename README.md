@@ -1,0 +1,1 @@
+# NxtTrendz-project
