@@ -6,6 +6,12 @@ Features product listing, cart management, authentication, and search filters.
 ## 🔗 Live Demo
 [Check it out here](https://manjunxttendz.ccbp.tech/)
 
+Username: rahul
+Password: rahul@2021
+
+As I mentioned, the username and password aren’t related to me because the learning platform, NxtWave, manages the server and logins. Soon, I’ll build my own server for the Login and Register page.
+
+
 ## 🚀 Tech Stack
 - React.js
 - CSS3
