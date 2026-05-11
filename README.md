@@ -4,7 +4,7 @@ A responsive e-commerce web app built with React.js.
 Features product listing, cart management, authentication, and search filters.  
 
 ## 🔗 Live Demo
-[Check it out here](https://manxtrendz.ccbp.tech/)
+[Check it out here](manxtrendz.ccbp.tech)
 
 - Username: rahul
 - Password: rahul@2021
